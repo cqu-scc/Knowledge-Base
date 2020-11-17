@@ -53,7 +53,7 @@ Tools:
 - Intel Parallel Studio
 - DNU/gprof
 - Intel VTune
-- Spack (environment manager)
+- [Spack](https://spack-tutorial.readthedocs.io/en/latest/) (environment manager)
 
 Teamwork: 
 - Git & Github workflow
@@ -71,3 +71,4 @@ Computer architecture:
 Network:
 
 - InfiniBand
+
