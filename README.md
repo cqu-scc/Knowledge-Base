@@ -72,3 +72,9 @@ Network:
 
 - InfiniBand
 
+#### Other Team
+- [Geekpie from ShanghaiTech](https://github.com/geekpiehpc)
+- [Tsignhua University](https://github.com/thu-scc)
+- [Peking University](https://github.com/pkusc)
+- [CUHK(SZ)](https://github.com/CUHKSZ-HPC)
+- [University of Bristol](https://github.com/UoB-HPC)
